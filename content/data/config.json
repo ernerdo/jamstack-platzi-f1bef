@@ -72,5 +72,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://jamstack-platzi-f1bef.netlify.app"
 }
