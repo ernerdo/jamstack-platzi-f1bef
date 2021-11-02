@@ -40,7 +40,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with .",
+        "content": "&copy; Stackbit. All rights ",
         "has_social": true,
         "social_links": [
             {
