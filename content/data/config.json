@@ -65,6 +65,13 @@
                 "new_window": true
             },
             {
+                "label": "github",
+                "url": "https://dribbble.com/",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true
+            },
+            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
