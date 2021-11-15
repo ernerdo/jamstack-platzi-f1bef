@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Ernerdo Website
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
