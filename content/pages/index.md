@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:title'
       value: Ernerdo Website
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: "Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A"
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
