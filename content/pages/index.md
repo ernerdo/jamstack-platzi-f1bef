@@ -106,5 +106,6 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
+  description: "Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A"
 layout: advanced
 ---
