@@ -91,7 +91,7 @@ seo:
       value: Ernerdo Website
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: "Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A"
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
