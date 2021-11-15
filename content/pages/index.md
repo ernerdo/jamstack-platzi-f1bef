@@ -65,6 +65,9 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
