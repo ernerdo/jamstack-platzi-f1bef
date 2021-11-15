@@ -83,7 +83,6 @@ sections:
         style: button
 seo:
   title: Ernerdo Website
-  description: The preview of the Exto theme
   extra:
     - name: 'og:type'
       value: website
