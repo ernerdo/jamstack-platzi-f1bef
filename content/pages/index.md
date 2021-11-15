@@ -82,17 +82,16 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Ernerdo Website
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Ernerdo Website
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: "Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A"
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
@@ -101,11 +100,12 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Ernerdo Website
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: "Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A"
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
+  description: "Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A"
 layout: advanced
 ---
