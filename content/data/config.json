@@ -32,7 +32,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/default.png"
     },
     "footer": {
         "content": " Ernesto Herrera @_ernerdo • Todos los derechos reservados &copy; 2021.",
