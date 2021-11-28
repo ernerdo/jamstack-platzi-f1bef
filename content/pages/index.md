@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Ernerdo. My name is Ernesto Herrera'
-    content: "## Engineer, Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A&#xA;\n"
+    content: "## Engineer, Web Developer, Soft Skills, Never Stop Learning \U0001F680 Platzinauta \U0001F49A&#xA;\n"
     actions:
       - label: Let's talk
         url: /contact
