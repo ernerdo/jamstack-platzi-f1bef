@@ -60,13 +60,6 @@
                 "new_window": true
             },
             {
-                "label": "Notion",
-                "url": "https://ernerdo.notion.site/",
-                "style": "icon",
-                "icon": "github",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/ernerdo/",
                 "style": "icon",
