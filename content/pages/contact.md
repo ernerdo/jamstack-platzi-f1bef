@@ -31,7 +31,7 @@ sections:
       - input_type: textarea
         name: message
         label: Mensaje
-        default_value: Your message
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
