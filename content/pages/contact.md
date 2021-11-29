@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below.
+      ¡Hola! Muchas gracias por su interés en trabajar juntos. Por favor
+      complete el formulario de contacto a continuación.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
