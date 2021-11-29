@@ -31,5 +31,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-Hola, mi nombre es Ernesto Silva....
+Hola, mi nombre es Ernesto Herrera...
