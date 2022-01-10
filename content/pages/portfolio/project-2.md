@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Proyecto 2
 subtitle: lorem-ipsum
 date: '2022-01-09'
 thumb_image_alt: lorem-ipsum
